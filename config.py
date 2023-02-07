@@ -1,1 +1,1 @@
-USER_AGENT = pewpew
+USER_AGENT = "pewpew"
